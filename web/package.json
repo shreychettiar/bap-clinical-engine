@@ -1,0 +1,24 @@
+{
+  "name": "bap-clinical-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive Clinician and Patient Dashboard for Balanced Activity Profile (BAP)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.300.0",
+    "recharts": "^2.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "typescript": "^5.2.0",
+    "vite": "^5.0.0"
+  }
+}
